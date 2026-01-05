@@ -1,0 +1,45 @@
+{
+    "prompt": "The telephone cord is gently vibrating.",
+    "opacity_threshold": 0.02,
+    "rotation_degree": [0.0],
+    "rotation_axis": [0],
+    "substep_perframe": 256,
+    "total_time": 5,
+    "frame_num": 150,
+    "nu": 0.367500,
+    "E": 0.015915,
+    "grid_lim":1.0,
+    "downsample_scale":1.0,
+    "n_grid": 96,
+    "material": "jelly",
+    "density": 2000,
+    "g": [0,0,0.0],
+    "grid_v_damping_scale": 1.1,
+    "rpic_damping": 0.0,
+    "boundary_conditions": [
+        {
+            "type": "add_constant_force",
+            "force": [15, 15, -15],
+            "point": [-2.955897,0.8174739,5.179935 ],
+            "start_time": 0,
+            "end_time": 0.75,
+            "radius": 0.1
+        }
+    ],
+
+    "mpm_space_vertical_upward_axis": [0,0,1],
+    "mpm_space_viewpoint_center": [0.95,1.07,1],
+    "default_camera_index": 6,
+    "show_hint": false,
+    "init_azimuthm": -36.7,
+    "init_elevation": 8.96,
+    "init_radius": 4.11,
+    "move_camera": false,
+    "delta_a": -0.6,
+    "delta_e": -0.1,
+    "delta_r": 0.0005,
+    "lr": {
+        "E": [1, 0.1],
+        "nu": [1, 0.1]
+    }
+}
