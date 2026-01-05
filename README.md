@@ -1,6 +1,6 @@
 # [AAAI 2026] MotionPhysics: Learnable Motion Distillation for Text-Guided Simulation
 
-### [[Project Page](https://wangmiaowei.github.io/MotionPhysics.github.io/)] [[arXiv](https://arxiv.org/abs/2601.00504v1)]
+### [[Project Page](https://wangmiaowei.github.io/MotionPhysics.github.io/)] [[arXiv](https://arxiv.org/abs/2601.00504)]
 
 **Miaowei Wang**, **Jakub Zadrożny**, **Oisin Mac Aodha**, **Amir Vaxman**
 School of Informatics, University of Edinburgh
